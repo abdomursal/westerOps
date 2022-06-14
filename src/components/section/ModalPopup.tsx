@@ -93,7 +93,6 @@ const ModalPopup = ({
             <Text style={styles.headerText}>{type} a task</Text>
           </View>
           <TouchableOpacity
-            style={styles.closeModalButton}
             onPress={() => setModalVisible(false)}
           >
             <Icon
@@ -202,12 +201,6 @@ const styles = StyleSheet.create({
     width: "85%",
     color: COLORS.black,
     marginLeft: 8,
-  },
-  closeModalButton: {
-    padding: 10,
-    position: "absolute",
-    top: 20,
-    right: 10,
   },
   buttonsWrap: {
     width: "90%",
