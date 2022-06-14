@@ -25,8 +25,8 @@ The task is to design and developed  using a React Native, which aims to display
 
 <img src='./assets/home_screenshot.png' width="300">
 
-<img src='./assets/details_screenshot.png' width="300">
+<img src='./assets/addTask_screenshot.png' width="300">
 
-<img src='./assets/home_screenshot.png' width="300">
+<img src='./assets/updateTask_screenshot.png' width="300">
 
-<img src='./assets/details_screenshot.png' width="300">
+<img src='./assets/menu_screenshot.png' width="300">
