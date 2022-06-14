@@ -1,6 +1,6 @@
 # westerOps_challenge
 
-The task is to design and developed  using a React Native, which aims to display 'To Do List'.
+The task is to design and develop a React Native application, which aims to display 'To Do List'.
 
 
 # main features:
